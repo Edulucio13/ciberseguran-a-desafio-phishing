@@ -12,6 +12,7 @@ Criar um Phishing para captura de senhas de login do Facebook.
 
 - Acesso root no Kali Linux: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
+
   Opções do setoolkit:
   - Tipo de ataque: ``` Social-Engineering Attacks ```
   - Vetor de ataque: ``` Web Site Attack Vectors ```
